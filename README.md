@@ -4,7 +4,7 @@ This project extends the original single-file coffee kiosk. It preserves the lay
 
 ## Team and Evidence of Collaboration
 
-Team members, work breakdown, commit history, pair programming screenshots and meeting logs: [Google Docs](<GOOGLE_DOCS_LINK>)
+Team members, work breakdown, commit history, pair programming screenshots and meeting logs: [Google Docs](https://docs.google.com/document/d/18l0gBq3Fw69rHAvEgbeSZHpKXDzFor78mrpt60-Mcy0/edit?usp=sharing)
 
 ## Requirements
 
