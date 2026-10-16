@@ -2,18 +2,9 @@
 
 This project extends the original single-file coffee kiosk. It preserves the layout and five menu categories while using server-managed product data, pricing, orders, authentication, payment status, and loyalty.
 
-## Team and work breakdown
+## Team and Evidence of Collaboration
 
-| Role | Responsibilities |
-|---|---|
-| Backend Lead | REST controllers, authentication and security (`KioskController`, `AuthController`, `SecurityConfig`) |
-| Backend Logic | pricing, orders, payment confirmation and loyalty points (`PricingService`, `OrderService`, `CustomerService`) |
-| Frontend and UI | `index.html`, cart, checkout and API integration |
-| Database, Testing and Documentation | MySQL script, entities and repositories, unit tests, README, collaboration evidence |
-
-## Evidence of Collaboration
-
-Team members, screenshots of commit history, pair programming, meeting logs and work breakdown: [Google Docs](<GOOGLE_DOCS_LINK>)
+Team members, work breakdown, commit history, pair programming screenshots and meeting logs: [Google Docs](<GOOGLE_DOCS_LINK>)
 
 ## Requirements
 
