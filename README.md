@@ -4,16 +4,16 @@ This project extends the original single-file coffee kiosk. It preserves the lay
 
 ## Team and work breakdown
 
-| Member | Responsibilities |
+| Role | Responsibilities |
 |---|---|
-| Mark Daniel Francisco | Backend Lead: REST controllers, authentication and security (`KioskController`, `AuthController`, `SecurityConfig`) |
-| Kyle Bayubay | Backend Logic: pricing, orders, payment confirmation and loyalty points (`PricingService`, `OrderService`, `CustomerService`) |
-| Jillea Mendoza | Frontend and UI: `index.html`, cart, checkout and API integration |
-| Carl Risos | Database, testing and documentation: MySQL script, entities and repositories, unit tests, README, collaboration evidence |
+| Backend Lead | REST controllers, authentication and security (`KioskController`, `AuthController`, `SecurityConfig`) |
+| Backend Logic | pricing, orders, payment confirmation and loyalty points (`PricingService`, `OrderService`, `CustomerService`) |
+| Frontend and UI | `index.html`, cart, checkout and API integration |
+| Database, Testing and Documentation | MySQL script, entities and repositories, unit tests, README, collaboration evidence |
 
 ## Evidence of Collaboration
 
-Screenshots of commit history, pair programming, meeting logs and work breakdown: [Google Docs](<GOOGLE_DOCS_LINK>)
+Team members, screenshots of commit history, pair programming, meeting logs and work breakdown: [Google Docs](<GOOGLE_DOCS_LINK>)
 
 ## Requirements
 
