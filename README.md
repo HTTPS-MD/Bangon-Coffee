@@ -6,11 +6,14 @@ This project extends the original single-file coffee kiosk. It preserves the lay
 
 | Member | Responsibilities |
 |---|---|
-| _Name 1_ | _e.g. Backend (Spring Boot, JPA, security)_ |
-| _Name 2_ | _e.g. Frontend and UI_ |
-| _Name 3_ | _e.g. Database, testing, documentation_ |
+| Mark Daniel Francisco | Backend Lead: REST controllers, authentication and security (`KioskController`, `AuthController`, `SecurityConfig`) |
+| Kyle Bayubay | Backend Logic: pricing, orders, payment confirmation and loyalty points (`PricingService`, `OrderService`, `CustomerService`) |
+| Jillea Mendoza | Frontend and UI: `index.html`, cart, checkout and API integration |
+| Carl Risos | Database, testing and documentation: MySQL script, entities and repositories, unit tests, README, collaboration evidence |
 
-Version control history and meeting logs are provided as screenshots in the submission.
+## Evidence of Collaboration
+
+Screenshots of commit history, pair programming, meeting logs and work breakdown: [Google Docs](<GOOGLE_DOCS_LINK>)
 
 ## Requirements
 
@@ -30,7 +33,7 @@ Version control history and meeting logs are provided as screenshots in the subm
    mvn spring-boot:run
    ```
 
-5. Open `http://localhost:8080/` in a browser. **Do not open the HTML as `file://`**: it requires same-origin API and session cookies. The frontend is the single file `backend/src/main/resources/static/index.html`, served by Spring Boot.
+5. Open `http://localhost:8080/` in a browser. **Do not use VS Code/Antigravity Live Server (port 5500) and do not open the HTML as `file://`**: it requires same-origin API and session cookies. The frontend is the single file `backend/src/main/resources/static/index.html`, served by Spring Boot.
 6. Run the Java unit tests with `cd backend && mvn test`.
 
 ## Login and checkout
